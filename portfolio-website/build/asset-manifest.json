@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aeda9012.css",
+    "main.js": "/static/js/main.cd25c37e.js",
+    "static/media/min.jpg": "/static/media/min.c426a160cf209eb1a330.jpg",
+    "static/media/minyang.jpg": "/static/media/minyang.dd3c23a924edeb7e3432.jpg",
+    "static/media/min.pdf": "/static/media/min.2d26a12793b9ff360e61.pdf",
+    "index.html": "/index.html",
+    "main.aeda9012.css.map": "/static/css/main.aeda9012.css.map",
+    "main.cd25c37e.js.map": "/static/js/main.cd25c37e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeda9012.css",
+    "static/js/main.cd25c37e.js"
+  ]
+}
